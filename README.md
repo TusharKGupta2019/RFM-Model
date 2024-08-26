@@ -1,6 +1,7 @@
 In this project, I learned about the RFM (Recency, Frequency, Monetary) model and its application in customer segmentation, which has been instrumental in enhancing my analytical skills.
 
 Key Insights
+
 RFM Analysis: I discovered how to evaluate customer behavior effectively by analyzing their purchasing patterns. This model helps businesses identify valuable customers and tailor marketing strategies to enhance engagement.
 
 Data Preparation: I learned the significance of data cleaning and preparation, including handling missing values and converting date formats, which are crucial for accurate analysis.
